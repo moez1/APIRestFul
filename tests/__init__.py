@@ -1,0 +1,1 @@
+from ressources import client_ressource
